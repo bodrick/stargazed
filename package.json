@@ -48,7 +48,7 @@
 		"emoji-log": "^1.0.2",
 		"gh-got": "^9.0.0",
 		"lodash.unescape": "^4.0.1",
-		"meow": "^7.0.1",
+		"meow": "^12.1.0",
 		"ora": "^4.0.4",
 		"validate.io-boolean-primitive": "^1.0.0",
 		"validate.io-object": "^1.0.4",
